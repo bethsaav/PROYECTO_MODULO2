@@ -25,7 +25,7 @@ Se utilizaron los siguientes tipos de etiquetas no semánticas:
 
 -Clonar repositorio:  
 ```sh
-git clone https://github.com/bethsaav/PROYECTO_MODULO1.git
+git clone https://github.com/bethsaav/PROYECTO_MODULO2.git
 ```
 
 -Abrir carpeta correcta:
