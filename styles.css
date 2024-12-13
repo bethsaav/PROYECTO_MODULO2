@@ -6,7 +6,7 @@
 
 body {
     background-color:#ebe9dd;
-    font-family: "Gill Sans", Arial, sans-serif;
+    font-family: "Nunito Sans", Arial;
     margin: 0;
     padding: 0;
 }
@@ -15,6 +15,7 @@ h1{
     text-align: center;
     color: #443b46;
     font-size: 34px; /* Cambia el tamaño de la fuente a 34 píxeles */
+    font-family: "Nunito Sans", Arial;
 }
 
 h3{
