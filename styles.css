@@ -95,9 +95,15 @@ nav ul li a:hover {
 }
 
 .section-title {
-    font-size: 1200;
+    font-size: 30px;
     color: #443b46;
     margin-bottom: 10px;
     text-align: center;
+}
+
+.card-link {
+    margin: 10px 0;
+    font-size: 1500;
+    color: #a02b48;
 }
 
