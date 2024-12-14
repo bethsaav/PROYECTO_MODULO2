@@ -107,3 +107,11 @@ nav ul li a:hover {
     color: #a02b48;
 }
 
+.footer {
+    background-color: #a99679;
+    color: #443b46;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 0.9em;
+    margin-top: auto;
+}
