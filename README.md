@@ -8,7 +8,7 @@ En esta página web descubrirás detalles sobre la vida de Taylor Swift y
 sus destacados logros en la industria musical.
 
 ## Características
-
+Se asignaron estilos por medio de css.
 
 ## ¿Cómo se puede ejecutar?
 
@@ -35,3 +35,6 @@ Link para acceder rápidamente al proyecto desde tu navegador: [proyecto_modulo2
 
 ### Contacto/Autor
 Soy Elizabeth Salinas Avelino y me puedes contactar en: [GitHub](https://github.com/bethsaav)
+
+### Agradecimientos
+Gracias a DEVF por brindarme la oportunidad de estar en el curso y al profesor Mackaber por darnos clase.
