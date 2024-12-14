@@ -94,7 +94,42 @@ nav ul li a:hover {
     color: #443b46;
 }
 
-.section-title {
+#discografía {
+    font-size: 30px;
+    color: #443b46;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#canciones-mas-exitosas {
+    font-size: 30px;
+    color: #443b46;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#regrabaciones {
+    font-size: 30px;
+    color: #443b46;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#premios {
+    font-size: 30px;
+    color: #443b46;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#marketing {
+    font-size: 30px;
+    color: #443b46;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+#conclusion {
     font-size: 30px;
     color: #443b46;
     margin-bottom: 10px;
@@ -115,3 +150,4 @@ nav ul li a:hover {
     font-size: 0.9em;
     margin-top: auto;
 }
+
