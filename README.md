@@ -4,8 +4,7 @@ En este trabajo apliqué los conocimientos adquiridos durante el Curso 'Course F
 
 ## Descripción
 
-En esta página web descubrirás detalles sobre la vida de Taylor Swift y 
-sus destacados logros en la industria musical.
+En esta página web descubrirás detalles sobre Taylor Swift.
 
 ## Características
 Se asignaron estilos por medio de css.

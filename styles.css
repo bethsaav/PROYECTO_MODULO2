@@ -151,3 +151,75 @@ nav ul li a:hover {
     margin-top: auto;
 }
 
+p{
+    text-align: justify;
+}
+
+/* Responsividad */
+
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .content-container {
+        justify-content: center;
+        gap: 15px;
+    }
+
+    .card {
+        max-width: 180px;
+    }
+
+    .card-title {
+        font-size: 1rem;
+    }
+
+    .card-description {
+        font-size: 0.9rem;
+    }
+}
+
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 1.5rem;
+        padding: 10px;
+    }
+
+    nav ul {
+        gap: 5px;
+    }
+
+    nav ul li a {
+        font-size: 0.9rem;
+        padding: 8px 12px;
+    }
+
+    .content-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .card {
+        width: 90%;
+        max-width: 300px;
+    }
+
+    .card-image {
+        height: auto;
+    }
+
+    .card-title {
+        font-size: 1.2rem;
+    }
+
+    .card-description {
+        font-size: 0.8rem;
+    }
+
+    .footer {
+        font-size: 0.8rem;
+    }
+}
+
