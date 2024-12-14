@@ -58,21 +58,46 @@ nav ul li a:hover {
     background-color:#ebe9dd;
 }
 
-main {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+.content-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
     gap: 20px;
-    gap: 20px;
-    padding: 20px;
-    max-width: 1200px;
-    margin: 0 auto;
-    width: 100%;
-
+    margin: 20px 0;
 }
 
+.card {
+    background: #ebe9dd;
+    border: 2px solid #a99679;
+    border-radius: 8px;
+    padding: 10px;
+    max-width: 220px;
+    text-align: center;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
 
-h3{
+.card-image {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.card-title {
+    margin: 10px 0;
+    font-size: 1500;
+    color: #a02b48;
+}
+
+.card-description {
+    color: #443b46;
+}
+
+.section-title {
+    font-size: 1200;
+    color: #443b46;
+    margin-bottom: 10px;
     text-align: center;
 }
-
 
